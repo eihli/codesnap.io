@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Metadata
-The meta data section between the '---' lines above won't be published to the body of your post. In the meta, you can specify the following fields:
+The meta data section Test between the '---' lines above won't be published to the body of your post. In the meta, you can specify the following fields:
 
 1. "title:" This is the title of your post
 
